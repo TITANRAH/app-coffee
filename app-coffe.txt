@@ -1,0 +1,6 @@
+npm i gsap react-icons split
+-type swiper
+npm uninstall locomotive-scroll
+
+npm install locomotive-scroll@beta
+npm i framer-motion
