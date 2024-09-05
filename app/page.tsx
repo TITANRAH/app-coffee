@@ -46,6 +46,8 @@ export default function Home() {
       <OpeningHours/>
       <Testimonials/>
 
+      {/* hol */}
+
     </div>
   );
 }
